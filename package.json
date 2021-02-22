@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "bem-vindo-candidato",
+  "main": "/app/index.js",
+  "scripts": {
+    "test": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizcarlos16/node_devops.git"
+  },
+  "author": "luizcarlos16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizcarlos16/node_devops/issues"
+  },
+  "homepage": "https://github.com/luizcarlos16/node_devops/node_devops#readme"
+}
